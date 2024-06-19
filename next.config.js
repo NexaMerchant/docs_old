@@ -5,11 +5,6 @@ const nextConfig = {
     images: {
         domains: ['github.io'],
       },
-      experimental: {
-        // Other experimental features can go here
-        modern: true,
-        scrollRestoration: true,
-      },
   };
   
   module.exports = nextConfig;
