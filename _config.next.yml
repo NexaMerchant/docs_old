@@ -902,4 +902,3 @@ vendors:
 # The js option is only valid when vendors.internal is local.
 css: css
 js: js
-images: images
