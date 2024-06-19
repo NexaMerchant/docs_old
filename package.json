@@ -12,6 +12,8 @@
     "version": "7.0.0"
   },
   "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
     "hexo": "^7.1.1",
     "hexo-asset-link": "^2.2.3",
     "hexo-generator-archive": "^2.0.0",
